@@ -29,4 +29,4 @@ def divisors(num):
             myList.append(i)
     return myList
 
-print(divisors(28))
+print(divisors(30))
